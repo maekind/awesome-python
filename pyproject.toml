@@ -3,6 +3,7 @@ name = "awesome-python"
 version = "0.1.0"
 description = "This project includes all the packages presented at the @thepypackager medium publications"
 readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.13"
 dependencies = [
     "pyhumps>=3.8.0",
