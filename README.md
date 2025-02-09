@@ -14,7 +14,14 @@ A curated collection of outstanding Python packages, based on the articles publi
 
 **Pyhumps** simplifies conversion between naming formats like camelCase and snake_case in Python.
 
-📖 Article: [Simplify Key Conversion in Python APIs with Pyhumps](https://medium.com/@ThePyPackager)
+📖 Article: [Simplify Key Conversion in Python APIs with Pyhumps](https://medium.com/@thepypackager/simplify-key-conversion-in-python-apis-with-pyhumps-3e79b3f403f5)
+
+### [icecream](https://pypi.org/project/icecream/)
+
+**icecream** is a debugging aid that outputs expressions and statements to the standard output.
+
+📖 Article: [Debugging Made Sweet: Using the IceCream Python Package](https://medium.com/@ThePyPackager)
+
 
 ## 🛠 Contributions
 
